@@ -21,7 +21,7 @@
     >
         <div class="flex items-center justify-between gap-4 border-b pb-2">
             <h1 class="font-semibold">
-                Swoley <span class="text-indigo-400">Moley</span>
+                Dhanush<span class="text-indigo-400">Fitness</span>
             </h1>
             <button
                 on:click={() => ($openModal = false)}
